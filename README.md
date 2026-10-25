@@ -4,7 +4,7 @@
 
 I take real websites from concept to production — and I've shipped one solo.
 
-[🌐 Portfolio](https://kristinabostandzhieva.github.io) · [💼 LinkedIn](https://www.linkedin.com/in/kristina-bostandzhieva) · [✉️ Email](mailto:kristinabostandzhieva@proton.me)
+[🌐 Portfolio](https://kristinabostandzhieva.github.io) · [💼 LinkedIn](https://www.linkedin.com/in/kristina-bostandzhieva-dev) · [✉️ Email](mailto:kristinabostandzhieva@proton.me)
 
 ---
 
