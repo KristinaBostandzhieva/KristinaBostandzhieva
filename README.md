@@ -1,15 +1,10 @@
-<h1 align="center">Hi, I'm Kristina 👋</h1>h1>
+# Hi, I'm Kristina 👋
 
-<p align="center">
-<b>Front-End &amp; Web Developer</b>b> · Sofia, Bulgaria 🇧🇬<br>
+### Front-End & Web Developer · Sofia, Bulgaria 🇧🇬
+
 I take real websites from concept to production — and I've shipped one solo.
-</p>p>
 
-<p align="center">
-<a href="https://kristinabostandzhieva.github.io">🌐 Portfolio</a>a> ·
-<a href="https://www.linkedin.com/in/kristina-bostandzhieva">💼 LinkedIn</a>a> ·
-<a href="mailto:kristinabostandzhieva@proton.me">✉️ Email</a>a>
-</p>p>
+[🌐 Portfolio](https://kristinabostandzhieva.github.io) · [💼 LinkedIn](https://www.linkedin.com/in/kristina-bostandzhieva) · [✉️ Email](mailto:kristinabostandzhieva@proton.me)
 
 ---
 
@@ -42,7 +37,7 @@ I'm a front-end and web developer who learns by building the whole thing. Most r
 ### 📦 Featured projects
 
 **🛒 [Soapfactory.bg](https://soapfactory.bg) — production e-commerce platform**
-Built and launched solo. Next.js 16 · React 19 · TypeScript · Tailwind · Prisma · Stripe payments · JWT + TOTP auth · Econt / Speedy / BOX NOW courier APIs · self-hosted on a Linux VPS with nginx, systemd &amp; Cloudflare.
+Built and launched solo. Next.js 16 · React 19 · TypeScript · Tailwind · Prisma · Stripe payments · JWT + TOTP auth · Econt / Speedy / BOX NOW courier APIs · self-hosted on a Linux VPS with nginx, systemd & Cloudflare.
 
 **🗺️ [Animal Shelter Map](https://map.mecho-ngo.bg) — Mecho NGO**
 Fast, framework-free interactive map. Vanilla JavaScript · Leaflet.js · OpenStreetMap · JSON-driven data · Schema.org structured data · deployed on GitHub Pages.
@@ -53,4 +48,5 @@ Responsive 11-page site. HTML5 · CSS3 · Bootstrap · jQuery · custom Node.js/
 ---
 
 ### 📫 Let's connect
-📧 kristinabostandzhieva@proton.me · 🌐 [kristinabostandzhieva.github.io](https://kristinabostandzhieva.github.io)</b>
+
+📧 kristinabostandzhieva@proton.me · 🌐 [kristinabostandzhieva.github.io](https://kristinabostandzhieva.github.io)
